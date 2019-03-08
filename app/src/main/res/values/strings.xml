@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+
+    <string-array name="food">
+        <item>afang soup</item>
+        <item>white soup</item>
+        <item>atama soup</item>
+        <item>edikan ikong</item>
+        <item>banga soup</item>
+    </string-array>
+</resources>
